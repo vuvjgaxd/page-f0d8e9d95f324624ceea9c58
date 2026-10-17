@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e853a766729b9488056f8d6c",
+  "owner": "vuvjgaxd",
+  "repo": "page-f0d8e9d95f324624ceea9c58",
+  "title": "锐星云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f0d8e9d95f324624ceea9c58",
+      "a": "锐星云",
+      "b": "",
+      "entity": "锐星云",
+      "brand": "锐星云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f6ccef8e50ddade738b86c1c70b44813e48c01631d90dafb9f4334a9f92dde7a",
+      "content": {
+        "keyword1": "锐星云",
+        "keyword2": "",
+        "primary_entity": "锐星云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "锐星云提供基础版、旗舰版、团队版三档套餐，按月或按年计费。本文档列出套餐权益、使用步骤与常见问题，便于按需选择。",
+          "AI_DESCRIPTION": "锐星云提供基础版、旗舰版、团队版三档套餐，按月或按年计费。本文档列出套餐权益、使用步骤与常见问题，便于按需选择。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  * {box-sizing: border-box;margin: 0;padding: 0}\n  body {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang SC\", \"Microsoft YaHei\", sans-serif;background: #f5f1e8;color: #2a2a2a;line-height: 1.7;font-size: 16px}\n  .hero {min-height: 100vh;background: #8b3a2a;color: #f5f1e8;display: flex;align-items: center;justify-content: center;padding: 40px 20px;text-align: center;position: relative}\n  .hero h1 {font-size: clamp(60px, 18vw, 260px);font-weight: 900;letter-spacing: -0.04em;line-height: 0.9}\n  .hero-sub {margin-top: 20px;font-size: clamp(14px, 2vw, 20px);opacity: 0.85;max-width: 600px}\n  .hero-links {margin-top: 40px;display: flex;gap: 24px;flex-wrap: wrap;justify-content: center}\n  .hero-links a {color: #f5f1e8;text-decoration: underline;text-underline-offset: 4px;font-size: 15px}\n  main {max-width: 900px;margin: 0 auto;padding: 60px 24px}\n  h2 {font-size: 28px;color: #8b3a2a;margin-bottom: 24px;border-bottom: 2px solid #8b3a2a;padding-bottom: 8px}\n  .plan-list {display: flex;flex-direction: column;gap: 24px}\n  .ticket {border: 2px dashed #8b3a2a;border-radius: 4px;padding: 28px 24px;background: #faf6ed;position: relative}\n  .ticket::before {content: \"\";position: absolute;top: -12px;left: 24px;width: 60px;height: 24px;background: #f5f1e8;border-left: 2px dashed #8b3a2a;border-right: 2px dashed #8b3a2a;border-bottom: 2px dashed #8b3a2a;border-radius: 0 0 8px 8px}\n  .ticket-header {display: flex;justify-content: space-between;align-items: baseline;flex-wrap: wrap;gap: 8px;margin-bottom: 16px}\n  .ticket-header h3 {font-size: 22px;color: #2a2a2a}\n  .price {font-size: 20px;font-weight: 700;color: #8b3a2a}\n  .annual {font-size: 13px;color: #6b6b6b;margin-bottom: 16px}\n  .ticket ul {list-style: none;padding: 0}\n  .ticket ul li {padding: 6px 0;border-bottom: 1px dotted #d4c5a9;font-size: 15px}\n  .ticket ul li:last-child {border-bottom: none}\n  .featured-badge {display: inline-block;background: #8b3a2a;color: #f5f1e8;font-size: 12px;padding: 2px 8px;border-radius: 2px;margin-left: 8px;vertical-align: middle}\n  .steps {background: #faf6ed;border: 2px dashed #8b3a2a;border-radius: 4px;padding: 28px 24px}\n  .steps ol {padding-left: 20px}\n  .steps ol li {margin-bottom: 12px;font-size: 15px}\n  .faq-list {counter-reset: faq;list-style: none;padding: 0}\n  .faq-list li {counter-increment: faq;padding: 20px 0;border-bottom: 1px solid #d4c5a9}\n  .faq-list li::before {content: counter(faq, decimal-leading-zero);display: block;color: #8b3a2a;font-weight: 700;font-size: 18px;margin-bottom: 6px}\n  .faq-list li h3 {font-size: 17px;color: #2a2a2a;margin-bottom: 8px}\n  .faq-list li p {font-size: 15px;color: #555}\n  footer {text-align: center;padding: 40px 20px;border-top: 2px dashed #8b3a2a;margin: 40px 24px 0;font-size: 13px;color: #777}\n  footer a {color: #8b3a2a;text-decoration: underline}\n</style><header class=\"hero\">\n  <div>\n    <h1>锐星云</h1>\n    <p class=\"hero-sub\">三档套餐，按月或按年计费，权益清晰，无多余话术。</p>\n    <nav class=\"hero-links\">\n      <a href=\"#plans\">查看套餐</a>\n      <a href=\"#usage\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </div>\n</header>\n\n<main>\n\n  <section id=\"plans\">\n    <h2>套餐与价格</h2>\n    <div class=\"plan-list\">\n\n      <div class=\"ticket\">\n        <div class=\"ticket-header\">\n          <h3>基础版</h3>\n          <span class=\"price\">¥15/月</span>\n        </div>\n        <p class=\"annual\">按年付仅需 ¥150/年</p>\n        <ul>\n          <li>每月 100GB 流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n\n      <div class=\"ticket\">\n        <div class=\"ticket-header\">\n          <h3>旗舰版<span class=\"featured-badge\">推荐</span></h3>\n          <span class=\"price\">¥35/月</span>\n        </div>\n        <p class=\"annual\">按年付仅需 ¥350/年</p>\n        <ul>\n          <li>每月 300GB 流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </div>\n\n      <div class=\"ticket\">\n        <div class=\"ticket-header\">\n          <h3>团队版</h3>\n          <span class=\"price\">¥85/月</span>\n        </div>\n        <p class=\"annual\">按年付仅需 ¥850/年</p>\n        <ul>\n          <li>每月 1000GB 流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n\n    </div>\n  </section>\n\n  <section id=\"usage\">\n    <h2>使用说明</h2>\n    <div class=\"steps\">\n      <ol>\n        <li>选择上方套餐并完成订阅，系统将生成专属账号与配置信息。</li>\n        <li>根据设备系统下载对应的客户端工具，安装后打开。</li>\n        <li>在客户端中输入订阅地址或手动导入配置文件，等待节点列表加载。</li>\n        <li>从节点列表中选择目标线路，点击连接，状态显示成功后即可使用。</li>\n        <li>如需调整路由规则或分流策略，可在客户端设置中按需修改。</li>\n      </ol>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <ol class=\"faq-list\">\n      <li>\n        <h3>套餐之间的主要区别是什么？</h3>\n        <p>流量额度、同时在线设备数、节点类型与售后响应级别不同。基础版面向日常浏览，旗舰版增加专线优化与优先工单，团队版面向多设备场景并提供专属客户经理。</p>\n      </li>\n      <li>\n        <h3>月付与年付可以中途切换吗？</h3>\n        <p>可在当前计费周期到期前在账户后台切换续费方式，未到期周期不折算差价。</p>\n      </li>\n      <li>\n        <h3>流量用完后会怎样？</h3>\n        <p>流量耗尽后连接将暂停，可在后台购买加流包或等待下一计费周期自动恢复。</p>\n      </li>\n      <li>\n        <h3>支持哪些设备？</h3>\n        <p>常见桌面与移动系统均可使用对应客户端，具体兼容性以实际安装环境为准。团队版支持更高并发设备数。</p>\n      </li>\n      <li>\n        <h3>遇到连接问题如何处理？</h3>\n        <p>先检查本地网络与客户端配置，确认无误后切换节点重试；如仍未解决，基础版用户可提交普通工单，旗舰版与团队版用户享受优先响应。</p>\n      </li>\n    </ol>\n  </section>\n\n</main>\n\n<footer>\n  锐星云 · 本页仅列示套餐与说明，如需订阅请前往官方渠道。\n</footer>",
+          "hash": "0595e44b9fb79f5ba9b7b8fe90bd0ff6b065b8012284f1fb82c65846fc7a72bd",
+          "seo": {
+            "title": "锐星云 | 套餐、使用说明与常见问题",
+            "keywords": "锐星云,套餐,使用说明,常见问题",
+            "description": "锐星云提供基础版、旗舰版、团队版三档套餐，按月或按年计费。本文档列出套餐权益、使用步骤与常见问题，便于按需选择。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "4721",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "2 米白配砖红",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iesiso.cn",
+    "host": "p-02ea5ef946.iesiso.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3474c68d9f9c1b8841998126ba052cbcfdb51d631b252e2177463e60c4254919",
+    "sitemap.xml": "34d733fc2cc6b3b18b8ec960827ce6d6866c0ecd146b99dbfb81235455fb46ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "54c58885b9668d00ba27f12cc2b4e9df724599e8c8f7a6827da03d21f45e0c0a",
+    "robots.txt": "5574cb9b127c92b7a25ea6ec2a76a1149c617fdc3ccf6711ec83e54ff92c6f54",
+    "484cfa8b1a46b3f712cb2a71409c6f7f.txt": "e7f69e5d1e220b2a5af8e36a4d247f0546724e73d97b37fe2a2b3d118d2e75eb"
+  },
+  "revision": "ef2d37d04a6ca297fb0fb9b4299c13ec562b40c6dfb839d52a444ce0d2533207"
+}
